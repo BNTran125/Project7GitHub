@@ -1,5 +1,5 @@
-# Bernice - Project 7 GitHub
-projects:
+# Bernice - CIS 3100 Projects
+These projects are focusing on a wide range: BI, DS, and ML. 
 
 1. Business Intelligence
 2. Data Science
